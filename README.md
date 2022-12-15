@@ -11,8 +11,11 @@ Being a web developer means being part of a community. We all need a place to sh
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Screenshots](#screenshots)
-- [Link](#link)
-- [Usage](#usage)
+- [Technical Acceptance Criteria](#technical-acceptance-criteria)
+- [Deployment](#deployment)
+- [Application Quality](#application-quality)
+- [Repository Quality](#repository-quality)
+- [Submission](#submission)
 
 ## License
 
@@ -65,13 +68,40 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots
 
-<img width="1300" alt="Screen1" src="https:.png">
+## Technical Acceptance Criteria
 
-<img width="1294" alt="Screen2" src="https.png">
+- Satisfies all of the preceding acceptance criteria plus the following:
+- Application must use React to render content.
+- Application has a single Header component that appears on multiple pages, with a Navigation component within it that’s used to conditionally render About Me, Portfolio, Contact, and Resume sections.
+- Application has a single Project component that’s used multiple times in the Portfolio section.
+- Application has a single Footer component that appears on multiple pages.
+- Application must be deployed to GitHub Pages.
 
-## Link
+## Deployment
 
-<a href="https://github.com/bslockhart/Brians-React-Portfolio/">Click Here</a>
-# Brians-React-Portfolio
-# Brians-React-Portfolio
-# Brians-React-Portfolio
+- Application deployed at live URL.
+- Application loads with no errors.
+- Application’s GitHub URL is submitted.
+- GitHub repo contains application code.
+
+## Application Quality
+
+- Application user experience is intuitive and easy to navigate.
+- Application user interface style is clean and polished.
+- Application uses a color scheme other than the default Bootstrap color palette.
+
+## Repository Quality
+
+- Repository has a unique name.
+- Repository follows best practices for file structure and naming conventions.
+- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+- Repository contains multiple descriptive commit messages.
+- Repository contains a quality README file with description, screenshot, and link to deployed application.
+
+### Submission
+
+- Date Submitted: December 14, 2022
+- You are required to submit BOTH of the following for review:
+
+1. The URL of the functional, deployed application: https://github.com/bslockhart/Brians-React-Portfolio/
+2. The URL of the GitHub repository. Give the repository a unique name and include a README describing the project: https://github.com/bslockhart/Brians-React-Portfolio
