@@ -68,6 +68,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots
 
+<img src="https://user-images.githubusercontent.com/109180146/207748029-9e3e02ea-f6b2-40fe-9ed6-f5d6e015176c.png" width="15%"></img>
+
 ## Technical Acceptance Criteria
 
 - Satisfies all of the preceding acceptance criteria plus the following:
