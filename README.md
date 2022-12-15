@@ -103,5 +103,5 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - Date Submitted: December 14, 2022
 - You are required to submit BOTH of the following for review:
 
-1. The URL of the functional, deployed application: https://github.com/bslockhart/Brians-React-Portfolio/
+1. The URL of the functional, deployed application: https://bslockhart.github.io/Brians-React-Portfolio/
 2. The URL of the GitHub repository. Give the repository a unique name and include a README describing the project: https://github.com/bslockhart/Brians-React-Portfolio
