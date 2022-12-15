@@ -68,6 +68,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots
 
+Screenshot.png
+
 ## Technical Acceptance Criteria
 
 - Satisfies all of the preceding acceptance criteria plus the following:
